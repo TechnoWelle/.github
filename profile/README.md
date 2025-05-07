@@ -1,4 +1,4 @@
-# 🚗 TechnoWelle Open Source | Democratizing Automotive Software
+# 🚗 TechnoWelle Open Source | Democratizing Automotive SW
 
 Welcome to the official GitHub organization of **TechnoWelle GmbH** — a passionate team committed to shaping the future of **automotive software engineering** through **open source collaboration** and **knowledge sharing**.
 
